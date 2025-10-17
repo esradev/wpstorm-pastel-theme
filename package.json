@@ -1,0 +1,32 @@
+{
+  "name": "wpstorm-pastel-theme",
+  "displayName": "Wpstorm Pastel Theme",
+  "publisher": "WpstormGenius",
+  "author": {
+    "name": "Wpstorm Genius",
+    "email": "wpstormdev@gmail.com",
+    "url": "https://wpstorm.ir"
+  },
+  "description": "A modern and colorful theme for Visual Studio Code, inspired by WebStorm's pastel color scheme.",
+  "icon": "images/icon.png",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esradev/wpstorm-pastel-theme"
+  },
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wpstorm Pastel Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wpstorm Pastel Theme-color-theme.json"
+      }
+    ]
+  }
+}
