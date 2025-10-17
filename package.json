@@ -9,7 +9,7 @@
   },
   "description": "A modern and colorful theme for Visual Studio Code, inspired by WebStorm's pastel color scheme.",
   "icon": "images/icon.png",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/esradev/wpstorm-pastel-theme"
