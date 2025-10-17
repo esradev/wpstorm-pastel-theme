@@ -20,3 +20,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added theme preview image for Marketplace
 - Updated README.
+
+## [0.0.4] - 2025-10-17
+
+### Added
+
+- Implement all default themes colors.
