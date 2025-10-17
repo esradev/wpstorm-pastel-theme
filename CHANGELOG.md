@@ -13,3 +13,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 
 - New icon.png
+
+## [0.0.3] - 2025-10-17
+
+### Added
+
+- Added theme preview image for Marketplace
+- Updated README.
